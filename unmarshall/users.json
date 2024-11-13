@@ -1,0 +1,17 @@
+{
+    "users" :[{
+        "name": "Alex",
+        "type": "admin",
+        "job": "Programer"
+        },
+         {
+            "name" : "Izabela",
+            "type" : "User",
+            "job"  : "Peluquera"
+            },
+             {"name" : "Cristian",
+              "type" : "User",
+              "job"  : "Student"
+              }
+              ]
+}
