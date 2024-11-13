@@ -8,7 +8,7 @@ import (
 	"os"
 )
 
-// Structura para repersentacion total slice
+// Structura para reprsentacion total slice
 type Users struct {
 	Users []User `json:"users"`
 }
